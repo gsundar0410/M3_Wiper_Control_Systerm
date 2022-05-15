@@ -24,10 +24,10 @@ This system is very effective and cost efficient.
 ## Weakness
 This has only limited speed control of wiper.
 
-## OPPORTUNITIES 
+## Opportunities 
 * Emerging New Markets
 * Technological Development
 
-## THREATS
+## Threads
 Economical Crisis
 
